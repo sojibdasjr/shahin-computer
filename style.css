@@ -1,0 +1,118 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+.h1{
+    font-size: 60px;
+}
+.scs{
+    color: orangered;
+}
+.scs2{
+    font-size: 40px;
+}
+.flexbol-container{
+    display: flex;
+}
+.half-width{
+    margin-left: 5%;
+   
+}
+
+.link-media{
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.link-media:hover{
+    font-size: 18px;
+
+}
+.link-media:visited{
+    color: rgb(0, 0, 0);
+}
+.half-width-2{
+    margin-top: 5%;
+    margin-left: 5%;
+    padding-right: 1%;
+}
+.half-width-2 img{ width: 85%;
+    box-shadow: 0px 10px 40px gray;
+}
+.paragraph{
+    font-size: 16px;
+
+}
+.background{
+    background-color: rgb(235, 227, 193);
+    margin-bottom: 5%;
+    padding-bottom: 5%;
+    margin-top: 5%;
+}
+.image2{
+box-shadow: 0px 5px 30px gray;
+margin: 1%;
+border-radius: 10px;
+
+}
+#border{
+    border-image:linear-gradient(blue,skyblue);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+#border2{
+    border-image:linear-gradient(rgb(255, 0, 200),skyblue);
+    border-left: 7px solid;
+    border-image-slice: 1
+}
+#border3{
+    border-image:linear-gradient(rgb(175, 241, 18),skyblue);
+    border-left: 7px solid;
+    border-image-slice: 1
+}
+#border4{
+    border-image:linear-gradient(rgb(255, 136, 0),rgb(49, 2, 221));
+    border-left: 7px solid;
+    border-image-slice: 1
+}
+.our{
+    text-align: center;
+    font-size: 50px;
+    color: orange;
+}
+.h2-pra{
+    text-align: center;
+    font-size: 18;
+}
+.last-se{
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+#Contact{
+    background-color: slategray;
+    padding-bottom: 8%;
+}
+#copyrigh{
+    text-align: center;
+    font-size: 15px;
+    background-color: slategray;
+}
+#contact-box{
+    background-color: snow;
+}
+#contact-us{
+    text-align: center;
+    font-size: 30px;
+}
+#Dewkhola{
+    text-align: center;
+}
+.container{
+    width: 80%;
+    margin-left: 10%;
+}
+
